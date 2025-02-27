@@ -10,5 +10,4 @@
 [GUI](https://thankful-hill-0db14d90f.2.azurestaticapps.net/)
 
 ### URL
-- [OLR Research Report](https://www.cga.ct.gov/2008/rpt/2008-R-0392.htm)
-- [Nitrogen Credit Trading in LIS](https://www.cga.ct.gov/PS98/rpt/olr/htm/98-R-1495.htm)
+- [OLR Research Report](https://www.cga.ct.gov/2008/rpt/2008-R-0392.htm) | [Nitrogen Credit Trading in LIS](https://www.cga.ct.gov/PS98/rpt/olr/htm/98-R-1495.htm)
